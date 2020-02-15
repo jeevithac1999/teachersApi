@@ -1,2 +1,0 @@
-# teachersApi
-Created with CodeSandbox
